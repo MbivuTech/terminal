@@ -7,3 +7,7 @@ this app will allow you some reign by having the server , nodejs, run the comman
 `with great power comes great responsibility` 
 
 so use with caution.
+
+in the auth middleware the password is password and username is username, it goes without saying that you'll have to change these.
+
+Good Luck!
